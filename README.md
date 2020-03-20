@@ -1,6 +1,6 @@
 # FUNDAMENTOS DE JAVASCRIPT EN PLATZI
 
-_En este repositorio encontrasas todas las clases de del curso de javascript_
+_En este repositorio encontraras todas las clases de del curso de javascript_
 
 ## Comenzando 🚀
 

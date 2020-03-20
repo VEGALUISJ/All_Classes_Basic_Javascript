@@ -1,4 +1,4 @@
-# FUNDAMENTOS DE JAVASCRIPT
+# FUNDAMENTOS DE JAVASCRIPT EN PLATZI
 
 _En este repositorio encontrasas todas las clases de del curso de javascript_
 
@@ -16,9 +16,9 @@ _JavaScript_
 
 _Version 0.1_
 
-## Autores ✒️
+## Autor ✒️
 
-- **Jorge Velasquez** - \_ \_ - [jorgevels](https://github.com/)
+- **Jose Luis Vega** - \_ \_ - [VEGALUISJ](https://github.com/VEGALUISJ)
 
 ## Licencia 📄
 
@@ -34,4 +34,4 @@ Este proyecto está bajo la Licencia (MTI) - mira el archivo [LICENSE](LICENSE) 
 
 ---
 
-⌨️ Hecho con ❤️ por [Jorvevels](https://github.com/jorvevels) 😊
+⌨️ Hecho con ❤️ por [VEGALUISJ](https://github.com/VEGALUISJ) 😊
